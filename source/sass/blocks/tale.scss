@@ -1,0 +1,18 @@
+.tale {
+  background-image: url("/img/background/bg-story.svg");
+  width: 700px;
+  height: 702px;
+  background-size: cover;
+}
+
+.tale__wrapper {
+  padding: 135px 152px 131px 156px;
+  text-align: center;
+}
+
+.tale__text {
+  font-size: 16px;
+  text-transform: uppercase;
+  margin: 0 0 24px 0;
+  line-height: 24px;
+}

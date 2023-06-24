@@ -1,0 +1,41 @@
+.intro {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
+
+.intro__title-wrapper {
+  padding: 24px 80px;
+  border-bottom: 1px solid #222222;
+}
+
+.intro__title {
+  font-size: 58px;
+  margin: 0;
+  text-align: center;
+}
+
+.intro__right-block {
+  width: 700px;
+  padding: 0;
+  margin: 0;
+}
+
+.intro__left-block {
+  width: 698px;
+  border-right: 1px solid #222222;
+}
+
+.intro__right-block,
+.intro__left-block {
+  height: 1005px;
+  border-bottom: 1px solid #222222;
+}
+
+.intro__ticker-slider {
+  height: 80px;
+  padding: 27px 0;
+  border-bottom: 1px solid #222222;
+  border-top: 1px solid #222222;
+}
